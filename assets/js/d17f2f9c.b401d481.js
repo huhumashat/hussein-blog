@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhussein_blog=self.webpackChunkhussein_blog||[]).push([[6967],{8827:s=>{s.exports=JSON.parse('{"permalink":"/hussein-blog/blog/tags/\u062a\u062c\u0631\u0628\u0629","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
